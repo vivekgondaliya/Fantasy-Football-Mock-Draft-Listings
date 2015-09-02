@@ -53,9 +53,11 @@ public class FantasyFootballMockDraft {
 			while((line = bufferedReader.readLine()) != null) {
 				//if the line starts is not empty and ** then write/print to file
             	if(!line.equals("") && line.substring(0, 2).equals("**")){
-            		bufferedWriter.write(line);
+					//get the value after "**"
+					line = line.substring(2);
+					//write the draft pick to the file
+					bufferedWriter.write(line);
 					bufferedWriter.newLine();
-            		//System.out.println(line);
             	}
             }    
 
