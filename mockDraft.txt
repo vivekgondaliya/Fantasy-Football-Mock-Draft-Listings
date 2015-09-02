@@ -1,0 +1,159 @@
+Round: 1
+(1) The Industry - Le'Veon Bell RB
+(2) The Machine - Adrian Peterson RB
+(3) Team Woodland - Eddie Lacy RB
+(4) Team Kerr - Marshawn Lynch RB
+(5) Team Laskowski - Jamaal Charles RB
+** (6) Team Gondalia - Antonio Brown WR
+(7) Team Nelson - C.J. Anderson RB
+(8) Team Nesom - Matt Forte RB
+
+Round: 2
+(9) Team Nesom - DeMarco Murray RB
+(10) Team Nelson - Demaryius Thomas WR
+** (11) Team Gondalia - LeSean McCoy RB
+(12) Team Laskowski - Rob Gronkowski TE
+(13) Team Kerr - Dez Bryant WR
+(14) Team Woodland - Jeremy Hill RB
+(15) The Machine - Odell Beckham Jr. WR
+(16) The Industry - Calvin Johnson WR
+
+Round: 3
+(17) The Industry - Julio Jones WR
+(18) The Machine - A.J. Green WR
+(19) Team Woodland - Randall Cobb WR
+(20) Team Kerr - Alshon Jeffery WR
+(21) Team Laskowski - Andrew Luck QB
+** (22) Team Gondalia - Aaron Rodgers QB
+(23) Team Nelson - T.Y. Hilton WR
+(24) Team Nesom - Mike Evans WR
+
+Round: 4
+(25) Team Nesom - Mark Ingram RB
+(26) Team Nelson - Emmanuel Sanders WR
+** (27) Team Gondalia - DeAndre Hopkins WR
+(28) Team Laskowski - Jimmy Graham TE
+(29) Team Kerr - Brandin Cooks WR
+(30) Team Woodland - Alfred Morris RB
+(31) The Machine - Lamar Miller RB
+(32) The Industry - Bills D/ST D/ST
+
+Round: 5
+(33) The Industry - Cam Newton QB
+(34) The Machine - Jordan Matthews WR
+(35) Team Woodland - Julian Edelman WR
+(36) Team Kerr - Justin Forsett RB
+(37) Team Laskowski - Russell Wilson QB
+** (38) Team Gondalia - Melvin Gordon RB
+(39) Team Nelson - Carlos Hyde RB
+(40) Team Nesom - Peyton Manning QB
+
+Round: 6
+(41) Team Nesom - Keenan Allen WR
+(42) Team Nelson - Drew Brees QB
+** (43) Team Gondalia - Frank Gore RB
+(44) Team Laskowski - Sammy Watkins WR
+(45) Team Kerr - Ben Roethlisberger QB
+(46) Team Woodland - Jonathan Stewart RB
+(47) The Machine - DeSean Jackson WR
+(48) The Industry - Charles Clay TE
+
+Round: 7
+(49) The Industry - Joique Bell RB
+(50) The Machine - Vincent Jackson WR
+(51) Team Woodland - Todd Gurley RB
+(52) Team Kerr - Greg Olsen TE
+(53) Team Laskowski - Latavius Murray RB
+** (54) Team Gondalia - Golden Tate WR
+(55) Team Nelson - Amari Cooper WR
+(56) Team Nesom - Joseph Randle RB
+
+Round: 8
+(57) Team Nesom - Andre Ellington RB
+(58) Team Nelson - T.J. Yeldon RB
+** (59) Team Gondalia - Arian Foster RB
+(60) Team Laskowski - Andre Johnson WR
+(61) Team Kerr - Davante Adams WR
+(62) Team Woodland - Giovani Bernard RB
+(63) The Machine - Rashad Jennings RB
+(64) The Industry - Matt Ryan QB
+
+Round: 9
+(65) The Industry - Brandon Marshall WR
+(66) The Machine - Travis Kelce TE
+(67) Team Woodland - Mike Wallace WR
+(68) Team Kerr - LeGarrette Blount RB
+(69) Team Laskowski - Seahawks D/ST D/ST
+** (70) Team Gondalia - Jarvis Landry WR
+(71) Team Nelson - Jeremy Maclin WR
+(72) Team Nesom - C.J. Spiller RB
+
+Round: 10
+(73) Team Nesom - Martellus Bennett TE
+(74) Team Nelson - Isaiah Crowell RB
+** (75) Team Gondalia - Julius Thomas TE
+(76) Team Laskowski - Stephen Gostkowski K
+(77) Team Kerr - Nelson Agholor WR
+(78) Team Woodland - Chris Ivory RB
+(79) The Machine - Allen Robinson WR
+(80) The Industry - Patriots D/ST D/ST
+
+Round: 11
+(81) The Industry - Eric Decker WR
+(82) The Machine - Charles Johnson WR
+(83) Team Woodland - Jason Witten TE
+(84) Team Kerr - Ryan Mathews RB
+(85) Team Laskowski - Shane Vereen RB
+** (86) Team Gondalia - Larry Fitzgerald WR
+(87) Team Nelson - Jordan Cameron TE
+(88) Team Nesom - Roddy White WR
+
+Round: 12
+(89) Team Nesom - Torrey Smith WR
+(90) Team Nelson - Tre Mason RB
+** (91) Team Gondalia - Texans D/ST D/ST
+(92) Team Laskowski - Michael Floyd WR
+(93) Team Kerr - Doug Martin RB
+(94) Team Woodland - Martavis Bryant WR
+(95) The Machine - Tevin Coleman RB
+(96) The Industry - Antonio Gates TE
+
+Round: 13
+(97) The Industry - John Brown WR
+(98) The Machine - Ameer Abdullah RB
+(99) Team Woodland - Devonta Freeman RB
+(100) Team Kerr - Duke Johnson RB
+(101) Team Laskowski - Jets D/ST D/ST
+** (102) Team Gondalia - Bishop Sankey RB
+(103) Team Nelson - Marques Colston WR
+(104) Team Nesom - Danny Woodhead RB
+
+Round: 14
+(105) Team Nesom - Charles Sims RB
+(106) Team Nelson - Kendall Wright WR
+** (107) Team Gondalia - Rams D/ST D/ST
+(108) Team Laskowski - Adam Vinatieri K
+(109) Team Kerr - Andre Williams RB
+(110) Team Woodland - Tony Romo QB
+(111) The Machine - Tom Brady QB
+(112) The Industry - Sebastian Janikowski K
+
+Round: 15
+(113) The Industry - Reggie Bush RB
+(114) The Machine - Broncos D/ST D/ST
+(115) Team Woodland - Ravens D/ST D/ST
+(116) Team Kerr - Dolphins D/ST D/ST
+(117) Team Laskowski - Steve Smith Sr. WR
+** (118) Team Gondalia - Steven Hauschka K
+(119) Team Nelson - Cardinals D/ST D/ST
+(120) Team Nesom - Lions D/ST D/ST
+
+Round: 16
+(121) Team Nesom - Justin Tucker K
+(122) Team Nelson - Cody Parkey K
+** (123) Team Gondalia - Victor Cruz WR
+(124) Team Laskowski - Alfred Blue RB
+(125) Team Kerr - Matt Prater K
+(126) Team Woodland - Matt Bryant K
+(127) The Machine - Dan Bailey K
+(128) The Industry - Lorenzo Taliaferro RB
