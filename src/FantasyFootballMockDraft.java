@@ -54,7 +54,8 @@ public class FantasyFootballMockDraft {
 				//if the line starts is not empty and ** then write/print to file
             	if(!line.equals("") && line.substring(0, 2).equals("**")){
             		bufferedWriter.write(line);
-            		System.out.println(line);
+					bufferedWriter.newLine();
+            		//System.out.println(line);
             	}
             }    
 
